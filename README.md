@@ -1,14 +1,10 @@
-# abiget.github.io
+# abiget.github.io - v2
 
-Personal portfolio (academic + professional).
+My personal website and portfolio. This is version 2 of [https://abiget.github.io/](https://abiget.github.io/)
 
-## Contact form (GitHub Pages)
+## Features
 
-The contact form uses [Formspree](https://formspree.io) so it works without any server (static GitHub Pages).
-
-1. Sign up at [formspree.io](https://formspree.io) (free tier is enough).
-2. Create a new form and copy your form ID (e.g. `xjvqeqez`).
-3. In `index.html`, replace `YOUR_FORM_ID` in the form `action` with your ID:
-   - Find: `action="https://formspree.io/f/YOUR_FORM_ID"`
-   - Use: `action="https://formspree.io/f/xjvqeqez"` (your ID).
-4. Formspree will email you when someone submits the form.
+- Clean and simple design
+- Responsive layout with Bootstrap
+- Smooth animations with custom JavaScript
+- Portfolio and project showcase
