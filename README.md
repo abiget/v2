@@ -2,6 +2,8 @@
 
 My personal website and portfolio. This is version 2 of [https://abiget.github.io/](https://abiget.github.io/)
 
+https://abiget.github.io/v2/
+
 ## Features
 
 - Clean and simple design
