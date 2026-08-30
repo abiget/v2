@@ -25,7 +25,7 @@ body {
 
 .container {
   width: 100%;
-  max-width: 1100px;
+  /* max-width: 1200px; */
   /* overflow-x: clip; */
   margin: 0 auto;
   padding: 0px 15px;
@@ -825,6 +825,26 @@ body {
   gap: 20px;
   /* padding-left: 20px; */
   /* padding-right: 20px; */
+}
+
+.container .content-container .projects .card .card-body-content.project-card-vertical {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.container .content-container .projects .card .card-body-content.project-card-vertical .image {
+  width: 100%;
+  margin-top: 0;
+}
+
+.container .content-container .projects .card .card-body-content.project-card-vertical .image img {
+  width: 100%;
+  height: auto;
+}
+
+.container .content-container .projects .card .card-body-content.project-card-vertical .content {
+  width: 100%;
 }
 
 .container .content-container .projects .card .card-body-content .image {
